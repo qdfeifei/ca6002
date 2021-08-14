@@ -1,2 +1,4 @@
-# ca6002
-for ca2- code revie
+<a href="https://scan.coverity.com/projects/qdfeifei-ca6002">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/23568/badge.svg"/>
+</a>
